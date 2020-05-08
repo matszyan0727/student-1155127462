@@ -19,4 +19,4 @@ Course No. | Course Title
 *CSCI3252* | Engineering Practicum
 
 ## Screenshot
-![Image of Screenshot] 4.png
+![Image of Screenshot](4.png)
