@@ -3,7 +3,7 @@ Name: **Ma Tsz Yan**
 SID: **1155127462**
 
 # As a developer...
-Programming language I have learned:
+Programming language I have learned...
 * C
 * Java
 
@@ -14,8 +14,6 @@ Programming language I have learned:
 
 # Courses I am taking...
 Course No. | Course Title
----------- | -----------
+---------- | ----------
 *CSCI3250* | Computers and Society
-*CSCI3251* | Engineering Practicum
-
-
+*CSCI3252* | Engineering Practicum
